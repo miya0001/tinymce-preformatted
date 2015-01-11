@@ -1,6 +1,5 @@
 === TinyMCE Preformatted ===
 Contributors: miyauchi
-Donate link: http://wpist.me/
 Tags: tinymce, Visual Editor, pre, preformatted
 Requires at least: 3.0
 Tested up to: 4.1
