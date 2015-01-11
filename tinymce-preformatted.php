@@ -4,7 +4,7 @@ Plugin Name: TinyMCE Preformatted
 Plugin URI: http://firegoby.theta.ne.jp/wp/mce_preformatted
 Description: Insert preformatted source.
 Author: Takayuki Miyauchi
-Version: 0.5.0
+Version: 0.6.0
 Author URI: http://firegoby.theta.ne.jp/
 */
 
@@ -110,4 +110,3 @@ public function add_button($buttons){
 }
 
 }
-
